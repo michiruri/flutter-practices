@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Rai\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\Programming Stuff\\VSCode\\Projects\\Flutter Projects\\GitHub Repositories\\flutter-practices\\audio_video_app\\android\\app\\.cxx\\Debug\\b5dc3ij3\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Rai\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\Programming Stuff\\VSCode\\Projects\\Flutter Projects\\GitHub Repositories\\flutter-practices\\audio_video_app\\android\\app\\.cxx\\Debug\\b5dc3ij3\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

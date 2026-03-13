@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "76691596786",
+    "project_id": "contact-trace-2025-bf4be",
+    "storage_bucket": "contact-trace-2025-bf4be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76691596786:android:f86945c2b135051658776b",
+        "android_client_info": {
+          "package_name": "com.example.capitis_mad2_assignment_8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRHjm5OkR-xfQik0IVFx6eugf1KzhCA8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76691596786:android:d3e06fe0d9ac0ef358776b",
+        "android_client_info": {
+          "package_name": "com.example.capitis_mad2_quiz_6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRHjm5OkR-xfQik0IVFx6eugf1KzhCA8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76691596786:android:faf2f2f13281cc8558776b",
+        "android_client_info": {
+          "package_name": "com.example.contact_tracing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRHjm5OkR-xfQik0IVFx6eugf1KzhCA8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76691596786:android:e5fe3a9bac034ab458776b",
+        "android_client_info": {
+          "package_name": "com.example.finals_practice_rai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRHjm5OkR-xfQik0IVFx6eugf1KzhCA8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

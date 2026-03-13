@@ -1,0 +1,29 @@
+name: audio_video_app
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  audioplayers: ^6.2.0
+  chewie: ^1.10.0
+  flutter:
+    sdk: flutter
+  image_picker: ^1.1.2
+  video_player: ^2.9.3
+  video_player_android: ^2.7.17
+  youtube_player_flutter: ^9.1.1
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/audio/
+    - assets/videos/
